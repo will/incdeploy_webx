@@ -33,7 +33,7 @@ That's all fine and dandy, but I'd really like to try out that `v7` release with
       67 <h1 style="color:purple">PURPLE</h1>
 
 
-### 1/4 traffic from one release, 1/4 from the other
+### 1/4 traffic from one release, 3/4 from the other
 
     ➤ h ps -a incdeploy
     === run: one-off processes
